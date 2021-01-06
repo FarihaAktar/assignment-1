@@ -159,7 +159,7 @@ body{
     color: white;
     padding: 10px 20px;
     border-radius: 5px;
-    background-image: linear-gradient(to right , rgb(133, 133, 235) 20%,rgb(3, 45, 160));
+    background-image: linear-gradient(to right ,rgb(3, 45, 160)20%, rgb(133, 133, 235) 100%);
    
 }
 /* Footer section  */
